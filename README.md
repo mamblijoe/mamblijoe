@@ -5,9 +5,11 @@
 </p>
 
 
-<a href="https://github.com/mamblijoe/github-readme-stats">
+<div style = 'display: flex; justify-content: space-between; align-items:center; gap: 30px;'>
+<a href="https://github.com/mamblijoe/github-readme-stats" style='width: 50%'>
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=mamblijoe&theme=dark&show_icons=true" />
 </a>
-<a href="https://github.com/mamblijoe/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mamblijoe&layout=compact&langs_count=10&theme=dark&show_icons=true&card_width=1000" />
+<a href="https://github.com/mamblijoe/convoychat" style='width: 50%'>
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mamblijoe&layout=compact&langs_count=10&theme=dark&show_icons=true&card_width=500" />
 </a>
+</div>
