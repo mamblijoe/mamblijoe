@@ -6,7 +6,7 @@
 
 
 <a href="https://github.com/mamblijoe/github-readme-stats&theme=dark&show_icons=true">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=mamblijoe" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=mamblijoe&theme=dark&show_icons=true" />
 </a>
 <a href="https://github.com/mamblijoe/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mamblijoe&layout=compact&langs_count=8&card_width=320" />
