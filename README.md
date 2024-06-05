@@ -5,3 +5,4 @@
 </p>
 
 [![Mambli Joe GitHub stats](https://github-readme-stats.vercel.app/api?username=mamblijoe)](https://github.com/mamblijoe/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mamblijoe)](https://github.com/mamblijoe/github-readme-stats)
