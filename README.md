@@ -5,7 +5,7 @@
 </p>
 
 
-<a href="https://github.com/mamblijoe/github-readme-stats">
+<a href="https://github.com/mamblijoe/github-readme-stats&theme=dark&show_icons=true">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=mamblijoe" />
 </a>
 <a href="https://github.com/mamblijoe/convoychat">
